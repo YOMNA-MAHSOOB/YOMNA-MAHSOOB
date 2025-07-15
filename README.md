@@ -4,7 +4,6 @@
 ---
 
 ### 👩🏻‍💻 About Me
-- 💻 Passionate about building smart tech using **Machine Learning**, **Python**, and **Data Analysis**
 - 🧠 Currently learning **Cybersecurity fundementals** and **Web Development**
 - 🎯 Interested in solving real-world problems using code
 
@@ -27,11 +26,7 @@
 ---
 
 ### 📫 Contact Me
-- 💌 Email: **yomnamahsoob45@gmail.com**  
+- 💌 Email: **ymahsoob@gmail.com**  
 - 💼 LinkedIn: [linkedin.com/in/Yomna-Mahsoob](https://www.linkedin.com/in/yomna-el-kobesy-30186a317?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
----
-
-### 🌟 GitHub Stats
-![Yomna's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yomna-Mahsoob&show_icons=true&theme=tokyonight)
 
