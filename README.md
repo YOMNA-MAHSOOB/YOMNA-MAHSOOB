@@ -1,11 +1,25 @@
+
 <h1 align="center">Hi there 👋, I'm Yomna El‑kobesy</h1>
-<p align="center"> A Computer Science Student at Ain Shams University </p>
+<h3 align="center">Passionate Computer Science Student at Ain-Shams University</h3>
+<p align="center">
+</p>
+
+<br>
+<h1 align="center"> <img src="https://media.tenor.com/apGSV-Mt_bgAAAAj/tkthao219-bubududu.gif" width=250>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Sacramento&size=33&letterSpacing=1px&pause=1000&color=F7687D&center=true&width=435&lines=Hello%2C+It's+Jana+(%5E-%5E);I'm+a+computer+science+student+" alt="Typing SVG" /></a>  
+
+---
+
+
+
+<h1 align="center">Hi there 👋, I'm Yomna El‑kobesy</h1>
+<!-- <p align="center"> A Computer Science Student at Ain Shams University </p> -->
 
 ---
 
 ### 👩🏻‍💻 About Me
 - 🧠 Currently learning **Cybersecurity fundementals** and **Web Development**
-- 🎯 Interested in solving real-world problems using code
+<!-- - 🎯 Interested in solving real-world problems using code-->
 
 
 ---
