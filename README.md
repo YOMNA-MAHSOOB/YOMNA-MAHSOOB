@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi there 👋, I'm Yomna El‑kobesy</h1>
-<h3 align="center">Passionate Computer Science Student at Ain-Shams University</h3>
+<h3 align="center">Computer Science Student at Ain-Shams University</h3>
 <p align="center">
 </p>
 
@@ -11,8 +11,6 @@
 ---
 
 
-
-<h1 align="center">Hi there 👋, I'm Yomna El‑kobesy</h1>
 <!-- <p align="center"> A Computer Science Student at Ain Shams University </p> -->
 
 ---
