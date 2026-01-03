@@ -9,13 +9,12 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Sacramento&size=33&letterSpacing=1px&pause=1000&color=F7687D&center=true&width=435&lines=Hello%2C+It's+Jana+(%5E-%5E);I'm+a+computer+science+student+" alt="Typing SVG" /></a>  
 
 
-<!-- <p align="center"> A Computer Science Student at Ain Shams University </p> -->
+
 
 ---
 
 ### 👩🏻‍💻 About Me
-- 🧠 Currently learning **Cybersecurity fundementals** and **Web Development**
-<!-- - 🎯 Interested in solving real-world problems using code-->
+- Currently learning **Cybersecurity fundementals** and **Web Development**
 
 
 ---
@@ -35,7 +34,7 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ---
 ### 📫 Contact Me
-- 💌 Email: **ymahsoob@gmail.com**  
-- 💼 LinkedIn: [linkedin.com/in/Yomna-Mahsoob](https://www.linkedin.com/in/yomna-el-kobesy-30186a317?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- Email: **ymahsoob@gmail.com**  
+- LinkedIn: [linkedin.com/in/Yomna-Mahsoob](https://www.linkedin.com/in/yomna-el-kobesy-30186a317?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 
