@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi there 👋, I'm Yomna El‑kobesy</h1>
-<h3 align="center">Computer Science Student at Ain-Shams University</h3>
+<h3 align="center">Junior Computer Science Student at Ain-Shams University</h3>
 <p align="center">
 </p>
 
@@ -10,7 +10,7 @@
 
 
 ### 👩🏻‍💻 About Me
-- Currently learning **Cybersecurity fundementals** and **Web Development**
+- Currently learning **Web Development**
 
 
 ---
