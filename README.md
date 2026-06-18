@@ -1,40 +1,66 @@
+<div align="center">
 
-<h1 align="center">Hi there , I'm Yomna El‑kobesy</h1>
-<h3 align="center">Junior Computer Science Student at Ain-Shams University</h3>
-<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=Yomna%20El-kobesy&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Computer%20Science%20Student%20|%20Backend%20Developer&descAlignY=55&descSize=16"/>
+
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=YOMNA-MAHSOOB&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/YOMNA-MAHSOOB?style=for-the-badge&color=blue"/>
 </p>
 
-<br>
-<!-- <h1 align="center"> <img src="https://media.tenor.com/apGSV-Mt_bgAAAAj/tkthao219-bubududu.gif" width=250>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Sacramento&size=33&letterSpacing=1px&pause=1000&color=F7687D&center=true&width=435&lines=Hello%2C+It's+Yomna+(%5E-%5E);I'm+a+computer+science+student+" alt="Typing SVG" /></a>   -->
-
-
-### 👩🏻‍💻 About Me
-- Currently learning **Web Development**
--  Building projects with Node.js, Express.js and PostgreSQL
-
+</div>
 
 ---
 
-### 🛠️ Tech Stack
+## About Me
 
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
-
-![Shell Script](https://img.shields.io/badge/Shell_Scripting-121011?style=flat&logo=gnu-bash&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
+-  Computer Science Student at Ain Shams University  
+-  Learning **Full Stack Development**
+-  Working with **Node.js, Express.js, PostgreSQL and React Frame work**
+-  Interested in scalable systems & clean architecture
 
 ---
-### 📫 Contact Me
-- Email: **ymahsoob@gmail.com**  
-- LinkedIn: [linkedin.com/in/Yomna-Mahsoob](https://www.linkedin.com/in/yomna-el-kobesy-30186a317)
 
+##  Tech Stack
 
+<div align="center">
+
+### Languages
+<img src="https://skillicons.dev/icons?i=cpp,java,js,ts&theme=dark"/>
+
+### Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs&theme=dark"/>
+
+### Databases
+<img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark"/>
+
+### Tools
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode&theme=dark"/>
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOMNA-MAHSOOB&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=YOMNA-MAHSOOB&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: **ymahsoob@gmail.com**
+- 🔗 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/yomna-el-kobesy-30186a317)
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+
+</div>
