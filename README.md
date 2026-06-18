@@ -1,16 +1,17 @@
 
-<h1 align="center">Hi there 👋, I'm Yomna El‑kobesy</h1>
+<h1 align="center">Hi there , I'm Yomna El‑kobesy</h1>
 <h3 align="center">Junior Computer Science Student at Ain-Shams University</h3>
 <p align="center">
 </p>
 
 <br>
-<h1 align="center"> <img src="https://media.tenor.com/apGSV-Mt_bgAAAAj/tkthao219-bubududu.gif" width=250>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Sacramento&size=33&letterSpacing=1px&pause=1000&color=F7687D&center=true&width=435&lines=Hello%2C+It's+Yomna+(%5E-%5E);I'm+a+computer+science+student+" alt="Typing SVG" /></a>  
+<!-- <h1 align="center"> <img src="https://media.tenor.com/apGSV-Mt_bgAAAAj/tkthao219-bubududu.gif" width=250>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Sacramento&size=33&letterSpacing=1px&pause=1000&color=F7687D&center=true&width=435&lines=Hello%2C+It's+Yomna+(%5E-%5E);I'm+a+computer+science+student+" alt="Typing SVG" /></a>   -->
 
 
 ### 👩🏻‍💻 About Me
 - Currently learning **Web Development**
+-  Building projects with Node.js, Express.js and PostgreSQL
 
 
 ---
@@ -25,15 +26,15 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
-<!---
+
 ![Shell Script](https://img.shields.io/badge/Shell_Scripting-121011?style=flat&logo=gnu-bash&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
---->
 
 ---
 ### 📫 Contact Me
 - Email: **ymahsoob@gmail.com**  
-- LinkedIn: [linkedin.com/in/Yomna-Mahsoob](https://www.linkedin.com/in/yomna-el-kobesy-30186a317?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- LinkedIn: [linkedin.com/in/Yomna-Mahsoob](https://www.linkedin.com/in/yomna-el-kobesy-30186a317)
 
 
