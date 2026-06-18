@@ -2,12 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=Yomna%20El-kobesy&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Computer%20Science%20Student%20|%20Backend%20Developer&descAlignY=55&descSize=16"/>
 
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=YOMNA-MAHSOOB&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
-  <img src="https://img.shields.io/github/followers/YOMNA-MAHSOOB?style=for-the-badge&color=blue"/>
-</p>
-
 </div>
 
 ---
