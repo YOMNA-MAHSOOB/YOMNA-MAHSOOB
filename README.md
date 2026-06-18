@@ -22,6 +22,9 @@
 ### Languages
 <img src="https://skillicons.dev/icons?i=cpp,java,js,ts&theme=dark"/>
 
+### Frontend
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap&theme=dark"/>
+
 ### Backend
 <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs&theme=dark"/>
 
