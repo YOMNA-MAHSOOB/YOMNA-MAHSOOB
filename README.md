@@ -52,7 +52,7 @@
 ## 📫 Contact Me
 
 - 📧 Email: **ymahsoob@gmail.com**
-- 🔗 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/yomna-el-kobesy-30186a317)
+- 🔗 LinkedIn: [linkedin.com/in/Yomna El-Kobesy](https://www.linkedin.com/in/yomna-el-kobesy-30186a317)
 
 ---
 
