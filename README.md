@@ -29,7 +29,7 @@
 <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs&theme=dark"/>
 
 ### Databases
-<img src="https://skillicons.dev/icons?i=postgres,mongodb&theme=dark,mysql"/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark"/>
 
 ### Tools
 <img src="https://skillicons.dev/icons?i=git,github,postman,vscode&theme=dark"/>
