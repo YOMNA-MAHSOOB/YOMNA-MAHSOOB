@@ -10,7 +10,7 @@
 
 -  Computer Science Student at Ain Shams University  
 -  Learning **Full Stack Development**
--  Working with **Node.js, Express.js, PostgreSQL**
+-  Working with **Express.js, Node.js, PostgreSQL and MongoDB**
 -  Interested in scalable systems & clean architecture
 
 ---
